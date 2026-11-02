@@ -12,3 +12,4 @@ if(isprime):
 	print(f"{num} is prime no ")
 else:
 	print(f"{num} is not prime no ")	
+	//s
